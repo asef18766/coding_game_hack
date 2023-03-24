@@ -1,6 +1,7 @@
 .vscode/*
 .vscode
 
+code/obj/**
 *.o
 Answer.cpp
 
@@ -10,4 +11,3 @@ code/exe_bin.b64
 *.pdf
 
 *.zip
-code/obj/**
